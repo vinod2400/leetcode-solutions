@@ -9,4 +9,12 @@
 |  |
 | ------- |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vinod2400/leetcode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+## String
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
