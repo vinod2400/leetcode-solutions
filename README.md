@@ -12,9 +12,14 @@
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/vinod2400/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/vinod2400/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
