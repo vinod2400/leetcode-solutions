@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vinod2400/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vinod2400/leetcode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Two Pointers
@@ -42,5 +43,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vinod2400/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
