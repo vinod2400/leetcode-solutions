@@ -22,6 +22,7 @@
 | [0812-rotate-string](https://github.com/vinod2400/leetcode-solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/vinod2400/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [3617-find-the-original-typed-string-i](https://github.com/vinod2400/leetcode-solutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Dynamic Programming
 |  |
 | ------- |
