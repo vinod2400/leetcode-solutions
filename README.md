@@ -115,5 +115,6 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0328-odd-even-linked-list](https://github.com/vinod2400/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vinod2400/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
