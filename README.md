@@ -34,6 +34,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/vinod2400/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
@@ -69,6 +70,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/vinod2400/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vinod2400/leetcode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Sliding Window
 |  |
@@ -84,10 +86,12 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vinod2400/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/vinod2400/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vinod2400/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/vinod2400/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Union Find
 |  |
 | ------- |
@@ -96,6 +100,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vinod2400/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/vinod2400/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -131,4 +136,8 @@
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vinod2400/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/vinod2400/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
