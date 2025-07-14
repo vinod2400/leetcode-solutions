@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/vinod2400/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vinod2400/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vinod2400/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
@@ -125,6 +126,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0328-odd-even-linked-list](https://github.com/vinod2400/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vinod2400/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vinod2400/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Greedy
 |  |
 | ------- |
