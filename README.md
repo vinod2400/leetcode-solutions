@@ -16,6 +16,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vinod2400/leetcode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vinod2400/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3643-zero-array-transformation-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3779-eat-pizzas](https://github.com/vinod2400/leetcode-solutions/tree/master/3779-eat-pizzas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vinod2400/leetcode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vinod2400/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3779-eat-pizzas](https://github.com/vinod2400/leetcode-solutions/tree/master/3779-eat-pizzas) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vinod2400/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3779-eat-pizzas](https://github.com/vinod2400/leetcode-solutions/tree/master/3779-eat-pizzas) |
 ## Shortest Path
 |  |
 | ------- |
