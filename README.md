@@ -15,6 +15,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/vinod2400/leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vinod2400/leetcode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vinod2400/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3643-zero-array-transformation-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vinod2400/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vinod2400/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [3643-zero-array-transformation-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/vinod2400/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [3643-zero-array-transformation-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Math
 |  |
 | ------- |
