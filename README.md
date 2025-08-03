@@ -10,6 +10,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/vinod2400/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vinod2400/leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1603-running-sum-of-1d-array](https://github.com/vinod2400/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1813-maximum-erasure-value](https://github.com/vinod2400/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vinod2400/leetcode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/vinod2400/leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/vinod2400/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1603-running-sum-of-1d-array](https://github.com/vinod2400/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [3643-zero-array-transformation-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Math
 |  |
