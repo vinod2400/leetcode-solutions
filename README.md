@@ -8,6 +8,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vinod2400/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vinod2400/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/vinod2400/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/vinod2400/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vinod2400/leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/vinod2400/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -58,6 +59,7 @@
 | [0205-isomorphic-strings](https://github.com/vinod2400/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vinod2400/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/vinod2400/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/vinod2400/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vinod2400/leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/vinod2400/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/vinod2400/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/vinod2400/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1813-maximum-erasure-value](https://github.com/vinod2400/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 ## Counting
