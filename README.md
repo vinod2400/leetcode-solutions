@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vinod2400/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vinod2400/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vinod2400/leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -22,6 +23,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vinod2400/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vinod2400/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/vinod2400/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -160,6 +162,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vinod2400/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vinod2400/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3779-eat-pizzas](https://github.com/vinod2400/leetcode-solutions/tree/master/3779-eat-pizzas) |
 ## Shortest Path
