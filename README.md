@@ -9,6 +9,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vinod2400/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vinod2400/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0347-top-k-frequent-elements](https://github.com/vinod2400/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/vinod2400/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/vinod2400/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -62,6 +63,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/vinod2400/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vinod2400/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/vinod2400/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/vinod2400/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/vinod2400/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -77,6 +79,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/vinod2400/leetcode-solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/vinod2400/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/vinod2400/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vinod2400/leetcode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vinod2400/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -91,6 +94,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vinod2400/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vinod2400/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vinod2400/leetcode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Sliding Window
@@ -103,6 +107,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vinod2400/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vinod2400/leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Depth-First Search
@@ -179,6 +184,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vinod2400/leetcode-solutions/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/vinod2400/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -188,4 +194,12 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinod2400/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vinod2400/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vinod2400/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vinod2400/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
