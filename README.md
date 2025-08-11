@@ -40,6 +40,7 @@
 | [0022-generate-parentheses](https://github.com/vinod2400/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/vinod2400/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/vinod2400/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/vinod2400/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/vinod2400/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/vinod2400/leetcode-solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/vinod2400/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -73,6 +74,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/vinod2400/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/vinod2400/leetcode-solutions/tree/master/0812-rotate-string) |
 ## Sorting
 |  |
@@ -202,4 +204,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vinod2400/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/vinod2400/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/vinod2400/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
