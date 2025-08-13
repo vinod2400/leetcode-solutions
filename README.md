@@ -142,6 +142,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/vinod2400/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/vinod2400/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/vinod2400/leetcode-solutions/tree/master/0326-power-of-three) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vinod2400/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2050-count-good-numbers](https://github.com/vinod2400/leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vinod2400/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vinod2400/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/vinod2400/leetcode-solutions/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/vinod2400/leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vinod2400/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
