@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vinod2400/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vinod2400/leetcode-solutions/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vinod2400/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vinod2400/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vinod2400/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vinod2400/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vinod2400/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vinod2400/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
