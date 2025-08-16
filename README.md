@@ -150,6 +150,7 @@
 | [0231-power-of-two](https://github.com/vinod2400/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vinod2400/leetcode-solutions/tree/master/0326-power-of-three) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vinod2400/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/vinod2400/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/vinod2400/leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vinod2400/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
@@ -186,6 +187,7 @@
 | [0045-jump-game-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vinod2400/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1448-maximum-69-number](https://github.com/vinod2400/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vinod2400/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3779-eat-pizzas](https://github.com/vinod2400/leetcode-solutions/tree/master/3779-eat-pizzas) |
 ## Shortest Path
