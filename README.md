@@ -11,6 +11,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vinod2400/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vinod2400/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0274-h-index](https://github.com/vinod2400/leetcode-solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/vinod2400/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/vinod2400/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/vinod2400/leetcode-solutions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/vinod2400/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/vinod2400/leetcode-solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/vinod2400/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vinod2400/leetcode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -224,4 +226,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/vinod2400/leetcode-solutions/tree/master/0214-shortest-palindrome) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/vinod2400/leetcode-solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
