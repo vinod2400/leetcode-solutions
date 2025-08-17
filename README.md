@@ -12,6 +12,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vinod2400/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vinod2400/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0274-h-index](https://github.com/vinod2400/leetcode-solutions/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vinod2400/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/vinod2400/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
@@ -100,6 +101,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vinod2400/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vinod2400/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0275-h-index-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Heap (Priority Queue)
 |  |
