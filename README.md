@@ -18,6 +18,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/vinod2400/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/vinod2400/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/vinod2400/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/vinod2400/leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/vinod2400/leetcode-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1813-maximum-erasure-value](https://github.com/vinod2400/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
@@ -65,6 +66,7 @@
 | [0392-is-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vinod2400/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/vinod2400/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/vinod2400/leetcode-solutions/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Stack
 |  |
@@ -239,4 +241,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/vinod2400/leetcode-solutions/tree/master/0274-h-index) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/vinod2400/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
