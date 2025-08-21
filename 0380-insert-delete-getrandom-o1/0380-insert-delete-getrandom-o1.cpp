@@ -3,7 +3,7 @@ public:
     vector<int> arr;
     unordered_map<int, int> mp;
 
-    RandomizedSet() {}
+    RandomizedSet() {srand(time(0));}
 
     bool insert(int val) {
 
