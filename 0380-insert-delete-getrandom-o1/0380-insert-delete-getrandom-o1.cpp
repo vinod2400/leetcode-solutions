@@ -19,10 +19,11 @@ public:
     bool remove(int val) {
         if(!mp.count(val)) return false;
         int idx = mp[val];
-        swap(arr[idx],arr[arr.size()-1]);
+        swap(arr[idx],arr.back());
         mp[arr[idx]]=idx;
+        mp.erase(arr.back());
         arr.pop_back();
-        mp.erase(val);
+        
         return true;
     }
 
