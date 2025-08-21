@@ -15,6 +15,7 @@
 | [0274-h-index](https://github.com/vinod2400/leetcode-solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vinod2400/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vinod2400/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/vinod2400/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/vinod2400/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -80,6 +81,7 @@
 | [0205-isomorphic-strings](https://github.com/vinod2400/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vinod2400/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vinod2400/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vinod2400/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/vinod2400/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/vinod2400/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -160,6 +162,7 @@
 | [0043-multiply-strings](https://github.com/vinod2400/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/vinod2400/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vinod2400/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vinod2400/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vinod2400/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/vinod2400/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/vinod2400/leetcode-solutions/tree/master/2050-count-good-numbers) |
@@ -245,4 +248,12 @@
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vinod2400/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/vinod2400/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/vinod2400/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
