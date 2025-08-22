@@ -31,6 +31,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vinod2400/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3643-zero-array-transformation-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3779-eat-pizzas](https://github.com/vinod2400/leetcode-solutions/tree/master/3779-eat-pizzas) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/vinod2400/leetcode-solutions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/vinod2400/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vinod2400/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/vinod2400/leetcode-solutions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Linked List
 |  |
 | ------- |
@@ -215,6 +217,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/vinod2400/leetcode-solutions/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/vinod2400/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/vinod2400/leetcode-solutions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Merge Sort
 |  |
 | ------- |
