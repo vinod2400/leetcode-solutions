@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/vinod2400/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vinod2400/leetcode-solutions/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/vinod2400/leetcode-solutions/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/vinod2400/leetcode-solutions/tree/master/0135-candy) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/vinod2400/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/vinod2400/leetcode-solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/vinod2400/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vinod2400/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/vinod2400/leetcode-solutions/tree/master/0380-insert-delete-getrandom-o1) |
