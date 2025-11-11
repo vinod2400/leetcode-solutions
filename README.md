@@ -41,6 +41,7 @@
 | [0011-container-with-most-water](https://github.com/vinod2400/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vinod2400/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/vinod2400/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/vinod2400/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/vinod2400/leetcode-solutions/tree/master/0148-sort-list) |
 | [0392-is-subsequence](https://github.com/vinod2400/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -53,6 +54,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinod2400/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vinod2400/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/vinod2400/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/vinod2400/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/vinod2400/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/vinod2400/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/vinod2400/leetcode-solutions/tree/master/0242-valid-anagram) |
