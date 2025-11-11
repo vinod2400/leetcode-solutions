@@ -43,6 +43,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vinod2400/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/vinod2400/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/vinod2400/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/vinod2400/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/vinod2400/leetcode-solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinod2400/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinod2400/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0141-linked-list-cycle](https://github.com/vinod2400/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/vinod2400/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vinod2400/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -205,6 +207,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vinod2400/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/vinod2400/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/vinod2400/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/vinod2400/leetcode-solutions/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/vinod2400/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
