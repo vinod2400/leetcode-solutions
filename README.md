@@ -33,6 +33,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/vinod2400/leetcode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vinod2400/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vinod2400/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vinod2400/leetcode-solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3643-zero-array-transformation-ii](https://github.com/vinod2400/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3779-eat-pizzas](https://github.com/vinod2400/leetcode-solutions/tree/master/3779-eat-pizzas) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/vinod2400/leetcode-solutions/tree/master/3974-xor-after-range-multiplication-queries-i) |
@@ -183,6 +184,7 @@
 | [1448-maximum-69-number](https://github.com/vinod2400/leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/vinod2400/leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vinod2400/leetcode-solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vinod2400/leetcode-solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/vinod2400/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
@@ -290,4 +292,8 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vinod2400/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/vinod2400/leetcode-solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
