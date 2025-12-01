@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinod2400/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/vinod2400/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vinod2400/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/vinod2400/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/vinod2400/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -84,6 +85,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vinod2400/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/vinod2400/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 ## Hash Table
 |  |
